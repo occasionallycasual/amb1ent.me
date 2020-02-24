@@ -1,0 +1,3 @@
+[submodule "themes/archero"]
+	path = themes/archero
+	url = https://github.com/occasionallycasual/archero.git
