@@ -3,10 +3,10 @@ title: Solving the Jetbrains Quest
 date: 2020-03-10T18:24:57.500Z
 description: Solving the Jetbrains quest for a free 3 months of Jetbrains products.
 categories:
-  - Jetbrains
+  - JetBrains
 tags:
-  - Jetbrains
-  - Jetbrains Quest
+  - JetBrains
+  - JetBrains Quest
 ---
 Recently Jetbrains released a quest for us to follow over at Twitter\
 <https://twitter.com/jetbrains/status/1236986174075482113?s=20>
@@ -59,4 +59,4 @@ Looking back at to what we were given in the beginning we had a key;
 
 This looks like chiper, so using the substitution chiper we can easily compare the two using https://gitlab.com/guballa/SubstitutionBreaker
 
-We will end up with the final part of the quest which i'm going to leave you to read on your own :).
+We will end up with the final part of the quest which i'm going to leave you to read on your own, you will now be the proud of owner of 3 months of JetBrains products! :).
