@@ -4,12 +4,9 @@ date: 2020-03-10T18:24:57.500Z
 description: Solving the Jetbrains quest for a free 3 months of Jetbrains products.
 categories:
   - Jetbrains
-  - Chiper
-  - CTF
 tags:
   - Jetbrains
-  - CTF
-  - fluff
+  - Jetbrains Quest
 ---
 Recently Jetbrains released a quest for us to follow over at Twitter\
 <https://twitter.com/jetbrains/status/1236986174075482113?s=20>
@@ -22,7 +19,7 @@ Recently Jetbrains released a quest for us to follow over at Twitter\
 
 It's evident that the first part is in hexadecimals so we can easily translate that into text and end up with the question
 
-> Have you seen the source code of the JetBrains website?
+\> Have you seen the source code of the JetBrains website?
 
 Cool, so let's head over and check out their website source code. Looking trough it you will end up with a html comment that reads as the following
 
